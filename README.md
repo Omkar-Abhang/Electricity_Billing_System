@@ -96,9 +96,7 @@ Enhance the UI/UX for better usability.
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it.
 
-Acknowledgments
-
-Special thanks to Omkar Abhang for creating this project.
+# Acknowledgments
 
 Java Swing Documentation for GUI development guidance.
 
